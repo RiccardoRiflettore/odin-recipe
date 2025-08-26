@@ -1,0 +1,1 @@
+This is a project to show and practice my skills learned on the odin project about html, I am going to build a basic site using the knowledge acquired so far.
